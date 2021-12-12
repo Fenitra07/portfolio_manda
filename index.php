@@ -365,12 +365,12 @@
                 <h3>Managed pages</h3>
                 <br>
                 <ul>
-                  <li><i class="bi bi-chevron-right"></i> <strong><a href="https://web.facebook.com/opioconsulting">Opio Consulting</a></strong>
-                  <li><i class="bi bi-chevron-right"></i> <strong><a href="https://web.facebook.com/profile.php?id=100066598996075">Petits jobs online</a></strong>
-                  <li><i class="bi bi-chevron-right"></i> <strong><a href="https://web.facebook.com/haintsoassociation">Association Haintso</a></strong>
-                  <li><i class="bi bi-chevron-right"></i> <strong><a href="https://web.facebook.com/Clarck-Business-2114370648833270">Clarck Business</a></strong>
-                  <li><i class="bi bi-chevron-right"></i> <strong><a href="https://web.facebook.com/TANA-Communication-DAY-120582141967682">Tana Communication Day</a></strong>
-                  <li><i class="bi bi-chevron-right"></i> <strong><a href="https://web.facebook.com/biberonusb">Baby Heath&Care</a></strong>
+                  <li><i class="bi bi-chevron-right"></i> <strong><a target="_blank" href="https://web.facebook.com/opioconsulting">Opio Consulting</a></strong>
+                  <li><i class="bi bi-chevron-right"></i> <strong><a target="_blank" href="https://web.facebook.com/profile.php?id=100066598996075">Petits jobs online</a></strong>
+                  <li><i class="bi bi-chevron-right"></i> <strong><a target="_blank" href="https://web.facebook.com/haintsoassociation">Association Haintso</a></strong>
+                  <li><i class="bi bi-chevron-right"></i> <strong><a target="_blank" href="https://web.facebook.com/Clarck-Business-2114370648833270">Clarck Business</a></strong>
+                  <li><i class="bi bi-chevron-right"></i> <strong><a target="_blank" href="https://web.facebook.com/TANA-Communication-DAY-120582141967682">Tana Communication Day</a></strong>
+                  <li><i class="bi bi-chevron-right"></i> <strong><a target="_blank" href="https://web.facebook.com/biberonusb">Baby Heath&Care</a></strong>
                 </ul>
               </div>
 
